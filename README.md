@@ -38,7 +38,6 @@ This project enables automated testing of RESTful APIs by converting test case d
 | update user       | PUT    | /api/users/2      | Content-Type:application/json    | {"name":"neo", "job":"zion leader"}                 | 200    |
 | delete user       | DELETE | /api/users/2      | Content-Type:application/json    |                                                     | 204    |
 
----
 
 ## 🧬 YAML Output Format (`testcases.yaml`)
 
